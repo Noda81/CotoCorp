@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(26, 27, 29);
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 15px;
+}
+
+/* Hyperlink styling */
+a:link{
+    color:cornflowerblue
+}
+a:visited {
+    color: rebeccapurple;
+}
